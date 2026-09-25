@@ -1,0 +1,6 @@
+{
+  "name": "DigitalSales",
+  "description": "Digital Inventory, Billing and Sales Management System. Inventory • Billing • Sales Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
